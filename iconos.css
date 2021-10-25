@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?pltx98');
+  src:  url('fonts/icomoon.eot?pltx98#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pltx98') format('truetype'),
+    url('fonts/icomoon.woff?pltx98') format('woff'),
+    url('fonts/icomoon.svg?pltx98#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.boton{
+	padding:15px 16px;
+	text-align: center;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	display: inline-block;
+}
+
+.rojo{
+	background-color: #7c4a3a;
+}
+
+.azul{
+	background-color: #3b5a9a;
+}
+
+.verde{
+	background-color: #1aa9e1;
+}
+
+.icon-modificar:before,
+.icon-bajar:before,
+.icon-crear:before{
+	font-family: 'icomoon';
+	margin-right: 8px;
+}
+
+.icon-modificar:before {
+  content: "\ea90";
+}
+.icon-bajar:before {
+  content: "\ea92";
+}
+.icon-crear:before {
+  content: "\ea96";
+}
