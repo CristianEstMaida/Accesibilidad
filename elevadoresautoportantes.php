@@ -75,7 +75,7 @@
 			<!-- <h1>Donde Estamos</h1>
 			<p>
 				San Telmo - Bs As.
-			</p>
+			</p> -->
 
 		</div>
 		
