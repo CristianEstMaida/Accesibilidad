@@ -12,7 +12,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body class="home">
+
 	<section class="holder">
+
 	<?php 	include('inc/cabezal.php') ?>
 	
 	<!-- <?php 	include('inc/menu.php') ?> -->
@@ -25,37 +27,27 @@
 		</div> -->
 		<div class="columnas">
 			<div class="bienvenidos left">
-				<h1>SERVICIOS</h1>
-				<img src="img/index/ch/12/Silla-Abierta.jpg" alt="foto1" />
-				<img src="img/index/ch/12/reparacion-electrica.jpg" alt="foto1" />
+				<h1>SILLAS SUBE-ESCALERAS</h1>
+				<a href="img/index/fo/09/Ischia_esp.pdf"><img src="img/index/ch/09/S-2.jpg" alt="foto1" /></a>
 				<p>
-					Reparacion Multimarca
-				</p>
-
-				<p>
-					Habilitaciones de Asensores y Plataformas subeescaleras
+					Para cualquier tipo de escaleras
 				</p>
 				<p>
-					Reparacion y mantenimiento de sillas y plataformas subeescaleras.
+					Equipos con garantía escrita
 				</p>
 				<p>
-					Instalacion y traslado de equipos nuevos y usados.
+					Siempre buscamos la mejor opción para Ud.
 				</p>
+				<a href="img/index/fo/09/348Q_Catalogo_V59_Dolce_Vita_2016-ES-144dpi.pdf"><img src="img/index/ch/09/curva-3.jpg" alt="foto1" /></a>
+				<a href="img/index/fo/09/Elba_ES_web.pdf"><img src="img/index/ch/09/curva2.jpg" alt="foto1" /></a>
+				<a href="img/index/fo/09/Catalogo_Capri_dicembre_2013-ES-web.pdf"><img src="img/index/ch/09/silla-y-hombre.jpg" alt="foto1" /></a>
+				<img src="img/index/ch/09/Bespoke-Stairlifts-2.jpg" alt="foto1" />
 				<p>
-					Mantenimiento de Ascensores
+					Rectas a batería con instalación limpia sobre escalones
 				</p>
-				<img src="img/index/ch/12/libre-accesibilidad-02.jpg" alt="foto1" />
+				<img src="img/index/ch/09/Bespoke-Stairlifts-4.jpg" alt="foto1" />
 				<p>
-					Reparacion de sillas subeescaleras
-				</p>
-				<img src="img/index/ch/12/libre-accesibilidad-04.jpg" alt="foto1" />
-				<p>
-					Capacitacion constante
-				</p>
-				<img src="img/index/ch/12/IMG-20190118-WA0006.jpg" alt="foto1" />
-				<img src="img/index/ch/12/IMG-20190118-WA0005.jpg" alt="foto1" />
-				<p>
-					Modernización de tableros de ascensores
+					Estetica impecable
 				</p>
 				<!-- <h1>Donde Estamos</h1>
 				<p>
@@ -66,5 +58,7 @@
 		<?php include('inc/ubicacion.php') ?>
 	</section>
 	<?php include('inc/pie.php') ?>
+	
+
 </body>
 </html>
