@@ -9,6 +9,8 @@
 	<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" /> -->
 	<link rel="stylesheet" href="iconos.css">
 	<link rel="stylesheet" href="css/libreaccesibilidad.css" />
+	<!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body class="home">
 
@@ -37,7 +39,7 @@
 					<p>
 						Cel /  WhatsApp:                             <!-- (11)     6438-0434 -->
 						<!-- <a  onclick="goog_report_conversion ('tel:1164380434')" href="tel:1164380434"><span>(11)     6438-0434</span></a> -->
-						<a  href="https://api.whatsapp.com/send?phone=549111164380434&amp;text=Hola!%20Quiero%20hacer%20una%20consulta"><span>(11)     6438-0434</span></a>
+						<a  href="https://api.whatsapp.com/send?phone=5491164380434&amp;text=Hola.%20Quiero%20hacer%20una%20consulta"><span>(11)     6438-0434</span></a>
 					</p>
 					<p>
 						Fijo: Opcion contestdor                  <!-- (11)     5353 9484 (Dejando mensaje sera transmitido inmediatamente al móvil ) -->
